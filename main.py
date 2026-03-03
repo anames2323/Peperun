@@ -13,7 +13,7 @@ import threading
 
 TOKEN = "8604251887:AAEDd05fDzSlTF4ZUyz_4vQD88jI2DeA02Q"
 ADMIN_ID = 8245388091
-WEB_APP_URL = "urltosite"
+WEB_APP_URL = "https://comfy-biscotti-6108ae.netlify.app/"
 DATA_FILE = 'data.json'
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
@@ -266,4 +266,5 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
 
