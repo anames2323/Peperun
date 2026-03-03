@@ -3,4 +3,3 @@ flask_cors
 requests
 telegram
 python-telegram-bot
-python-telegram-bot --upgrade
