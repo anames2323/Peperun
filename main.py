@@ -11,8 +11,8 @@ import requests
 import os
 import threading
 
-TOKEN = "urtoken"
-ADMIN_ID = 1608641992
+TOKEN = "8604251887:AAEDd05fDzSlTF4ZUyz_4vQD88jI2DeA02Q"
+ADMIN_ID = 8245388091
 WEB_APP_URL = "urltosite"
 DATA_FILE = 'data.json'
 
@@ -266,3 +266,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
